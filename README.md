@@ -1,2 +1,2 @@
-# Binary-Classification
+# Data Science
 Methods and Kaggle Competitons
